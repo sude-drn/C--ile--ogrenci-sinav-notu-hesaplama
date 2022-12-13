@@ -1,0 +1,17 @@
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\bin\Debug\net6.0-windows\öğrenci sınav notları uygulaması.exe
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\bin\Debug\net6.0-windows\öğrenci sınav notları uygulaması.deps.json
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\bin\Debug\net6.0-windows\öğrenci sınav notları uygulaması.runtimeconfig.json
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\bin\Debug\net6.0-windows\öğrenci sınav notları uygulaması.dll
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\bin\Debug\net6.0-windows\öğrenci sınav notları uygulaması.pdb
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci_sınav_notları_uygulaması.Form1.resources
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.AssemblyInfo.cs
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.dll
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\refint\öğrenci sınav notları uygulaması.dll
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.pdb
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\öğrenci sınav notları uygulaması.genruntimeconfig.cache
+C:\Users\Sony\source\repos\öğrenci sınav notları uygulaması\öğrenci sınav notları uygulaması\obj\Debug\net6.0-windows\ref\öğrenci sınav notları uygulaması.dll
